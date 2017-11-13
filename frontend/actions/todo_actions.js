@@ -26,5 +26,23 @@ export const receiveTodo = (todo) => ({
 //     body: 'with eyes',
 //     done: true
 //   }];
-
+//
 // window.newState = newState;
+
+// const newState = {
+//   todos: {5: {
+//             id: 5,
+//             title: 'wash 1',
+//             body: 'with soap',
+//             done: false
+//           },
+//           6: {
+//             id: 6,
+//             title: 'wash 2',
+//             body: 'with shampoo',
+//             done: true
+//           }}
+// };
+//
+// window.newState = newState;
+//
