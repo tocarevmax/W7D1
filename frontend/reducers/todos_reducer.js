@@ -16,7 +16,9 @@ const initialState = {
 const todosReducer = (state = initialState, action) => {
   switch (action.type) {
     // case expression:
-    default: 
+    default:
       return state;
   }
 };
+
+export default todosReducer;
